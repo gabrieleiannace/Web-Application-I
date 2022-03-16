@@ -1,7 +1,7 @@
 'use strict';
 
 const sqlite = require('sqlite3');
-const db = new sqlite.Database('data.sqlite',
+const db = new sqlite.Database('data_empty.sqlite',
     (err) => { if (err) throw err; });
 
 for(let i=0; i<100; i++) {
