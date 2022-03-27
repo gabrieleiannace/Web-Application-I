@@ -12,5 +12,9 @@
 }
 .my-aside{
     border: 2px solid purple;
-    width: min-content;
+}
+
+.nav-list{
+    border: 5px solid red;
+    width: 99999%;
 }
