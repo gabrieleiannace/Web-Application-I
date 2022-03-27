@@ -10,3 +10,7 @@
 .my-col{
     border: 2px solid blue;
 }
+.my-aside{
+    border: 2px solid purple;
+    width: min-content;
+}
